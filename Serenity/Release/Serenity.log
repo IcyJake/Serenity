@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\jaketodd\desktop\cool programs\serenity (made by qoazi, malenz, and icyjake)\console\serenity\Addresses.h(116): warning C4101: 'mi': unreferenced local variable
+c:\users\jaketodd\desktop\cool programs\serenity (made by qoazi, malenz, and icyjake)\console\serenity\Addresses.h(278): warning C4309: '=': truncation of constant value
+  Generating code
+c:\users\jaketodd\desktop\cool programs\serenity (made by qoazi, malenz, and icyjake)\console\serenity\addresses.h(148): warning C4715: 'memory::Scan': not all control paths return a value
+  All 317 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Serenity.vcxproj -> C:\Users\Jaketodd\Desktop\Cool Programs\Serenity (Made by Qoazi, Malenz, and IcyJake)\Console\Release\Serenity.dll
+  Serenity.vcxproj -> C:\Users\Jaketodd\Desktop\Cool Programs\Serenity (Made by Qoazi, Malenz, and IcyJake)\Console\Release\Serenity.pdb (Full PDB)
